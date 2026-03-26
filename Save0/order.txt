@@ -1,0 +1,57 @@
+Unlocks.Speed {Items.Hay:20}
+Unlocks.Expand {Items.Hay:30}
+Unlocks.Plant {Items.Hay:50}
+
+Unlocks.Speed {Items.Wood:20}
+Unlocks.Expand {Items.Wood:20}
+Unlocks.Carrots {Items.Wood:50}
+
+Unlocks.Expand {Items.Wood:30,Items.Carrot:20}
+Unlocks.Speed {Items.Wood:50,Items.Carrot:50}
+Unlocks.Grass {Items.Hay:300}
+Unlocks.Trees {Items.Wood:50,Items.Carrot:70}
+Unlocks.Expand {Items.Wood:100,Items.Carrot:50}
+Unlocks.Grass {Items.Wood:500}
+Unlocks.Trees {Items.Hay:300}
+Unlocks.Carrots {Items.Wood:250}
+Unlocks.Pumpkins {Items.Wood:500,Items.Carrot:200}
+Unlocks.Sunflowers {Items.Carrot:500}
+Unlocks.Fertilizer {Items.Wood:500}
+
+Unlocks.Speed {Items.Carrot:500}
+Unlocks.Expand {Items.Pumpkin:1000}
+Unlocks.Grass {Items.Wood:2500}
+Unlocks.Trees {Items.Hay:1200}
+Unlocks.Carrots {Items.Wood:1250}
+Unlocks.Pumpkins {Items.Carrot:1000}
+Unlocks.Fertilizer {Items.Wood:1500}
+Unlocks.Grass {Items.Wood:12500}
+Unlocks.Trees {Items.Hay:4800}
+Unlocks.Carrots {Items.Wood:6250}
+Unlocks.Pumpkins {Items.Carrot:4000}
+Unlocks.Cactus {Items.Pumpkin:5000}
+
+Unlocks.Speed {Items.Carrot:1000}
+Unlocks.Expand {Items.Pumpkin:8000}
+Unlocks.Grass {Items.Wood:62500}
+Unlocks.Trees {Items.Hay:19200}
+Unlocks.Carrots {Items.Wood:31200}
+Unlocks.Pumpkins {Items.Carrot:16000}
+Unlocks.Cactus {Items.Pumpkin:20000}
+Unlocks.Fertilizer {Items.Wood:9000}
+Unlocks.Dinosaurs {Items.Cactus:2000}
+Unlocks.Fertilizer {Items.Wood:54000}
+Unlocks.Dinosaurs {Items.Cactus:12000}
+Unlocks.Mazes {Items.Weird_Substance:1000}
+
+Unlocks.Expand {Items.Pumpkin:64000}
+Unlocks.Mazes {Items.Cactus:12000}
+Unlocks.Megafarm {Items.Gold:2000}
+Unlocks.Dinosaurs {Items.Cactus:72000}
+Unlocks.Mazes {Items.Cactus:72000}
+Unlocks.Megafarm {Items.Gold:8000}
+Unlocks.Dinosaurs {Items.Cactus:432000}
+Unlocks.Mazes {Items.Cactus:432000}
+Unlocks.Megafarm {Items.Gold:32000}
+
+Unlocks.Leaderboard {Items.Bone:2000000,Items.Gold:1000000}
